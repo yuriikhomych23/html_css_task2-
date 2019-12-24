@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+.wrapper {
+    width: 300px;
+    height: 160px;
+    padding: 200px;
+    margin: 70px;
+    border: 2px solid black;
+}
+
+ h3 {
+    margin: 1%;
+    padding: 1%;
+    color: green;
+}
+
