@@ -56,7 +56,6 @@ header .site {
     float: left;
     width: 20%;
     height: 150px;
-    ;
     background-color: pink;
     text-align: center;
 }
@@ -111,16 +110,149 @@ header .site {
     text-align: center;
     width: 75px; 
     height: 150px;
-    margin: 0px 0px 0px 0px;
+}
+
+.container_main_2 {
+    width: 34%;
+    height: 450px;
+    float: left;
+    background-color:cornflowerblue;
+}
+.a {
+    text-align: center;
+    background-color: blueviolet;
+    height: 50px;
+}
+
+.b {
+    width: 33.3%;
+    height: 400px;
+    background-color: #58C718;
+    text-align: center;
+    float: left;
+}
+
+.c1 {
+    width: 33.3%;
+    height: 80px;
+    background-color: rgb(42, 75, 85);
+    text-align: center;
+    float: left;
+}
+
+.d1{
+    width: 33.3%;
+    height: 80px;
+    background-color: burlywood;
+    text-align: center;
+    float: right;
+}
+
+    .b1 {
+    text-align: center;
+    background-color: #0654A2;
+    float: left; 
+    width: 60px;
+    height: 208px; 
+} 
+
+.b2 {
+    text-align: center;
+    background-color: #4B603F;
+    float: left;
+    width: 60px;
+    height: 130px;
+}
+
+.c2 {
+    text-align: center;
+    background-color: #D4630C;
+    float: left;
+    width: 33.3%;
+    height: 80px;   
+}
+
+
+.I {
+    float: left;
+    text-align: center;
+    background-color: #D0A787;
+    width: 105px;
+    height: 100px;
+}
+
+.II {
+    float: left;
+    text-align: center;
+    background-color: #6C401E;
+    width: 103px;
+    height: 100px;
+}
+.III {
+    float: right;
+    text-align: center;
+    background-color: #0FB0B0;
+    width: 105px;    
+    height: 100px;
+}
+
+.IV {
+    background-color: rgb(177, 19, 19);
+    height: 350px;
+}
+
+
+.V {
+    background-color: grey;
+    height: 100px;
+    text-align: center;
+}
+
+.VI {
+    background-color: #D4630C;
+    text-align: center;
+    float: left;
+    height: 150px; 
+    width: 80px;
+}
+
+.VII {
+    float: right;
+    background-color: #D0A787;
+    text-align: center;
+    height: 50px; 
+    width: 233px;
+}
+
+.VIII {
+    float: left;
+    background-color: #0654A2;
+    text-align: center;
+    height: 50px;
+    width: 116.5px;
+}
+
+.IX {
+    float: left;
+    background-color:#58C718;
+    text-align: center;
+    height: 50px;
+    width: 116.5px;
+}
+
+.X {
+    float: left;
+    background-color: #EBE6FE;
+    text-align: center;
+    height: 50px;
+    width: 233px;
 }
 
 
 
-
-/* 
 .footer {
     background-color:cadetblue;
     text-align: center;
-    height: 200px;
+    height: 270px;
 
-} */
+}
